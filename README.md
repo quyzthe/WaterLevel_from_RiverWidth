@@ -6,6 +6,6 @@
 
 🚀 This marks my debut in the world of machine learning projects, and I'm excited to share my journey with you! You can find the code and more details about the project on my GitHub repository.
 
-[GitHub Repository](link_to_your_github_repo)
+[GitHub Repository](https://github.com/quyzthe/WaterLevel_from_RiverWidth/blob/main/WaterLevel%20from%20RiverWidth.ipynb)
 
 Feel free to explore the code, provide feedback, and collaborate on enhancing the project. 🤝👨‍💻👩‍💻
